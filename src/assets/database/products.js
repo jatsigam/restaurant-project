@@ -34,14 +34,12 @@ import product_06_image_08 from '../images/healthy_8.jpg';
 const products = [
   {
     id: '01',
-    title: 'King Prawn',
+    title: 'King Shrimp with Cilantro Pesto',
     price: 15,
     image01: product_01_image_01,
     image02: product_01_image_02,
     image03: product_01_image_03,
     category: 'Duolicious_dishes',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. ',
   },
 
   {
@@ -52,8 +50,6 @@ const products = [
     image02: product_02_image_02,
     image03: product_02_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -64,8 +60,6 @@ const products = [
     image02: product_03_image_02,
     image03: product_03_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -76,8 +70,6 @@ const products = [
     image02: product_04_image_02,
     image03: product_04_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -88,19 +80,15 @@ const products = [
     image02: product_05_image_02,
     image03: product_05_image_03,
     category: 'Duolicious_dishes',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
   {
     id: '06',
-    title: 'King Prawn',
+    title: 'Spicy Shrimp',
     price: 15,
     image01: product_01_image_01,
     image02: product_01_image_02,
     image03: product_01_image_03,
     category: 'Duolicious_dishes',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -111,8 +99,6 @@ const products = [
     image02: product_02_image_01,
     image03: product_02_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -123,8 +109,6 @@ const products = [
     image02: product_03_image_01,
     image03: product_03_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -135,8 +119,6 @@ const products = [
     image02: product_04_image_01,
     image03: product_04_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -147,8 +129,6 @@ const products = [
     image02: product_05_image_01,
     image03: product_05_image_03,
     category: 'Duolicious_dishes',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -159,8 +139,6 @@ const products = [
     image02: product_06_image_02,
     image03: product_06_image_03,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -171,8 +149,6 @@ const products = [
     image02: product_06_image_01,
     image03: product_06_image_03,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -183,8 +159,6 @@ const products = [
     image02: product_06_image_02,
     image03: product_06_image_03,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -195,8 +169,6 @@ const products = [
     image02: product_06_image_05,
     image03: product_06_image_08,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -207,8 +179,6 @@ const products = [
     image02: product_06_image_06,
     image03: product_06_image_07,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -219,8 +189,6 @@ const products = [
     image02: product_06_image_07,
     image03: product_06_image_08,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -231,8 +199,6 @@ const products = [
     image02: product_06_image_08,
     image03: product_06_image_01,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -243,8 +209,6 @@ const products = [
     image02: product_06_image_01,
     image03: product_06_image_02,
     category: 'Healty_Choices',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -255,8 +219,6 @@ const products = [
     image02: product_05_image_03,
     image03: product_05_image_05,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
   {
@@ -267,8 +229,6 @@ const products = [
     image02: product_05_image_04,
     image03: product_05_image_03,
     category: 'Quick_and_Easy',
-
-    desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque.',
   },
 
 ];
